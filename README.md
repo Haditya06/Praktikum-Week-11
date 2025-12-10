@@ -1,4 +1,4 @@
-# Praktikum-Week-11
+# 🧪 Praktikum-Week-11
 
 # 📚 CCK1DAB4 — Algoritma & Pemrograman  
 ## 🔢 Modul 10 — Array Statis
@@ -13,8 +13,6 @@ Repositori ini berisi implementasi praktikum terkait **Array Statis** pada mata 
 - Membuat aplikasi berbasis console dengan input → proses → output
 
 ---
-
-## 🧪 Praktikum
 
 ### 🟦 Praktik 1 — Input Nilai  
 Aplikasi yang:
