@@ -61,3 +61,16 @@ Aplikasi harus mampu:
 ---
 
 ## 📂 Struktur Folder (Saran)
+📦 Array-Praktikum
+┣ 📜 Praktik1_ArrayInput.java
+┣ 📜 Praktik2_NilaiPraktikum.java
+┣ 📜 Praktik3_TransaksiTFC.java
+┗ 📜 JurnalMandiri_TFCPlus.java
+
+
+---
+
+## 🚀 Cara Menjalankan Program
+```bash
+javac NamaFile.java
+java NamaFile
